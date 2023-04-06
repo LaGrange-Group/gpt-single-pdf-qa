@@ -1,1 +1,1 @@
-# gpt-single-pdf-qa
+# GPT_Single_PDF_QA
